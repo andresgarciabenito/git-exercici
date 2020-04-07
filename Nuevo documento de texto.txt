@@ -1,1 +1,3 @@
 Este es el documento de texto que será cargado al repositorio remoto
+
+Segundo cambio de texto, desde la rama MASTER
